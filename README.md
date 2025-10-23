@@ -3,19 +3,19 @@
 
 FILE SUMMARY:
 
-  Github Metric Standardization.ipynb
+  1. Github Metric Standardization.ipynb
     - Standardization script
       
-  Github Offseason Grading System.ipynb
+  2. Github Offseason Grading System.ipynb
     - Grading script
   
-  Methodology.pptx
+  3. Methodology.pptx
     - Model methodology guide 
   
-  NBA Offseason Grade Results.pptx
+  4. NBA Offseason Grade Results.pptx
     - Offseason grade results
     - Offseason moves summary for each team
   
-  Metrics Dictionary.xlsx
+  5. Metrics Dictionary.xlsx
     - Defines all metrics used/considered for the model
     - Includes sources
