@@ -1,8 +1,7 @@
-# NBA-Offseason-Grading-System
+# NBA OFFSEASON GRADING SYSTEM
+(A Data-driven framework for evaluating NBA team offseason roster moves after the 2025 season.)
 
-A Data-driven framework for evaluating NBA team offseason roster moves after the 2025 season.
-
-File Summary:
+FILE SUMMARY:
 
   Github Metric Standardization.ipynb
     - Standardization script
